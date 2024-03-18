@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Artyom</h1>
 <h3 align="left">A Software Engineer specializing in the Machine Learning field</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artyommatveev&label=Profile%20views&color=0e75b6&style=flat" alt="artyommatveev" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=artyommatveev&label=Profile%20views&color=0e75b6&style=flat" alt="artyommatveev" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
