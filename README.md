@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Artyom</h1>
-<h3 align="left">A Machine Learning Researcher</h3>
+<h3 align="left">Machine Learning Researcher</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=artyommatveev&label=Profile%20views&color=0e75b6&style=flat" alt="artyommatveev" /> </p> -->
 
